@@ -2,7 +2,7 @@
   "name": "tutorial-angular101",
   "version": "0.0.0",
   "scripts": {
-    "install": "npm install",
+    "install": "npm install --save-dev @angular-devkit/build-angular",
     "install": "npm install -g @angular/cli@latest",
     "ng": "ng",
     "start": "ng serve",
