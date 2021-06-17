@@ -2,8 +2,9 @@
   "name": "tutorial-angular101",
   "version": "0.0.0",
   "scripts": {
+    "install": "npm install -g @angular/cli",
     "ng": "ng",
-    "start": "npx ng serve",
+    "start": "ng serve",
     "build": "ng build",
     "test": "ng test",
     "lint": "ng lint",
